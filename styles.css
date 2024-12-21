@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    padding-top: 50px; /* Beispiel für den Abstand nach oben */
+}
+
+.fixed-navbar {
+    z-index: 999;
+}
+
+footer {
+    margin-top: 70px;
+}
